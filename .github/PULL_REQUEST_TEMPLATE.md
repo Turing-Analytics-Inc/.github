@@ -11,7 +11,7 @@
 <!--- Let the reviewers know what type of review you're looking for based on the following checklist -->
 <!--- Add an 'x' between each [ ] that apply to your changes. -->
 The changes in this PR involve the following:
-* [x] Simple Bug Fixes
+* [ ] Simple Bug Fixes
 * [ ] Complex Bug Fixes
 * [ ] New Functionality
 * [ ] Modifying Existing Functionality
